@@ -6,7 +6,7 @@ The purpose of this project was to visually replicate the Google homepage using 
 
 ## Usage
 
-You can view the result [here](https://amkruzel.github.io/google-homepage/)
+You can view the result at [https://amkruzel.github.io/google-homepage/](https://amkruzel.github.io/google-homepage/)
 
 ---
 
