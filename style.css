@@ -46,6 +46,19 @@ h1 img {
   padding-left: 8px;
 }
 
+/* search buttons */
+
+.search-btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-btn {
+  margin: 10px;
+  padding: 5px;
+}
+
 /* list styling */
 
 .horiz-list {
@@ -75,3 +88,45 @@ li a:hover {
   grid-template-columns: repeat(4, 60px);
 }
 
+/* footer */
+
+footer {
+  background-color: #efefef;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: inline-grid;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+footer ul li a {
+  color: #888;
+}
+
+.carbon-neut {
+  margin: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.left-footer {
+  width: 50%;
+  margin-left: 100px;
+}
+
+.left-footer li {
+  display: inline-block;
+  margin: 2px 10px 2px 10px;
+}
+
+.right-footer {
+  bottom: 0;
+  margin: 2px 50px 2px 10px;
+}
+
+.right-footer li {
+  display: inline-block;
+  right: 0;
+  margin: 20px;
+}
